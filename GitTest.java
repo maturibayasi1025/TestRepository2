@@ -9,6 +9,6 @@ public class GitTest {
 
         Scanner s = System.in();
         
-
+        System.out.println("AAA")
     }    
 }
