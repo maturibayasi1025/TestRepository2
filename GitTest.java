@@ -10,6 +10,5 @@ public class GitTest {
             System.out.println("Wi2");
         }
 
-        System.out.println(i);
     }    
 }
