@@ -10,5 +10,10 @@ public class GitTest {
           System.out.println("Hello,World!");
         }
 
+        for(int j = 0; j > 5; j++){
+            j++;
+        }
+        System.out.println(j);
+
     }    
 }
