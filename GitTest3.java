@@ -6,6 +6,9 @@ public class GitTest {
         int i = 0;
         System.out.println("Hello,World!");
 
-        System.out.println("Hello,World!");
+        if(i == 0){
+          System.out.println("Hello,World!");
+        }
+
     }    
 }
