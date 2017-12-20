@@ -9,5 +9,7 @@ public class GitTest {
         int hoge = sc.nextInt();
         
         System.out.println(hoge);
+
+        System.out.println(hoge);
     }    
 }
